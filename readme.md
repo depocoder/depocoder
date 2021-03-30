@@ -6,7 +6,7 @@
   align="center">
     <a
       align="center" 
-      href="https://t.me/Sadykhzadeh" 
+      href="https://t.me/heryfrank" 
       target="_blank">
           <img 
             alt="@heryfrank | Telegram" 
