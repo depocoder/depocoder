@@ -1,6 +1,6 @@
 <h2 
   align="center"
-  >Hi there, I'm Ivan Popov! 👋
+  >Hi there, I'm Ivan! 👋
 </h2>
 <p 
   align="center">
