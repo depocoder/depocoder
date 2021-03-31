@@ -13,6 +13,15 @@
             width="35px" 
             src="https://osx.telegram.org/updates/site/logo.png" />
     </a>
+    <a
+      align="center" 
+      href="https://www.linkedin.com/in/ivan-popov-5ab2291a1/" 
+      target="_blank">
+          <img 
+            alt="@ivan-popov-5ab2291a1 | Linkedin" 
+            width="35px" 
+            src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+    </a>
 </p>
 
 <p align="center">
