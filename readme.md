@@ -6,10 +6,10 @@
   align="center">
     <a
       align="center"
-      href="https://t.me/heryfrank" 
+      href="https://t.me/qwedeveloper" 
       target="_blank">
           <img 
-            alt="@heryfrank | Telegram" 
+            alt="@qwedeveloper | Telegram" 
             width="80px" 
             src="https://sadykhzadeh.ml/img/telegram-10.gif" />
     </a>
