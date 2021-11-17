@@ -23,12 +23,3 @@
             src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />
     </a>
 </p>
-
-<p align="center">
-  <img 
-       alt="Depocoder's github stats"
-       src="https://github-readme-stats.vercel.app/api?username=depocoder&show_icons=true&title_color=628FDB&text_color=37B6A7&icon_color=BE91F2&bg_color=0D1117&hide_border=true" />
-  <img 
-       alt="Depocoder's Top Langs" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depocoder&show_icons=true&title_color=628FDB&text_color=37B6A7&icon_color=BE91F2&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10" />
-</p>
