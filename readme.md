@@ -10,7 +10,8 @@
       target="_blank">
           <img 
             alt="@qwedeveloper | Telegram" 
-            width="80px" 
+            width="80px"
+            height="79px"
             src="https://logospng.org/download/telegram/logo-telegram-4096.png" />
     </a>
     <a
@@ -19,7 +20,8 @@
       target="_blank">
           <img 
             alt="@ivan-popov-5ab2291a1 | Linkedin" 
-            width="80px" 
+            width="80px"
+            height="75px"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" />
     </a>
 </p>
