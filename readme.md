@@ -11,7 +11,7 @@
           <img 
             alt="@qwedeveloper | Telegram" 
             width="80px" 
-            src="https://sadykhzadeh.ml/img/telegram-10.gif" />
+            src="https://logospng.org/download/telegram/logo-telegram-4096.png" />
     </a>
     <a
       align="center" 
@@ -20,6 +20,6 @@
           <img 
             alt="@ivan-popov-5ab2291a1 | Linkedin" 
             width="80px" 
-            src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" />
     </a>
 </p>
