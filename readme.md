@@ -2,7 +2,8 @@
   align="center"
   >Hi there, welcome to Ivan's Github profile! Glad to see you! 👋
 </h1>
-<p 
+<p align="center">Contact me:</p>
+<p
   align="center">
     <a
       align="center"
